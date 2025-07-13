@@ -46,3 +46,4 @@ if __name__=='__main__':
     
     index1 = binary_search_recrusive(numbers,find_the_number,left_index,right_index)
     print(f'Number found at: {index1}')
+    print("")
